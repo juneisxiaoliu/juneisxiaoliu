@@ -8,4 +8,4 @@ I bridge the gap between business strategy and technical implementation, with a 
 - 💡 Hackathon Experience:
     - **Lovable Build Night 2025:** Built "Student Connect" MVP in 90 mins using GenAI.
     - **UU AI Society Hackathon:** Team Lead for an AI Event Discovery tool.
-- 📫 How to reach me: [你的LinkedIn链接]
+- 📫 How to reach me: (https://www.linkedin.com/in/jing-liu-435405226/)
