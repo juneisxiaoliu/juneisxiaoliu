@@ -14,8 +14,7 @@ Here are the demos of the MVPs I managed and designed during recent hackathons.
 **Description:** A social hub for international students featuring an "Interest Match" algorithm and a gamified "Daily Event Blind Box".
 
 ### 🎥 Project Demo
-Check out the demo of my project:
-[Watch Video: Student Connect Demo] https://github.com/juneisxiaoliu/juneisxiaoliu/blob/main/After%20Class%20Demo.mp4
+Check out the demo of my project: https://github.com/juneisxiaoliu/juneisxiaoliu/blob/main/After%20Class%20Demo.mp4
 
 ---
 
