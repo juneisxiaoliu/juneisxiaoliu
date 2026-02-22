@@ -20,8 +20,7 @@ A bi-directional privacy firewall designed to solve the **"Enterprise AI Dilemma
 * **The Problem:** Addressed **OWASP LLM06** (Sensitive Information Disclosure) where employees accidentally leak PII to public LLMs.
 * **The Solution:** Implemented **"Reversible Anonymization"**. The system detects and replaces sensitive data (Names, IDs) with tokens *locally* before sending the prompt to the cloud, then reconstructs the answer locally.
 * **Strategic Impact:** Enables "Compliance as a Service," allowing regulated industries (Finance, Healthcare) to adopt GenAI while maintaining absolute data sovereignty.
-* 
-**Project Demo:**
+* **Project Demo:**
 Watch our pitch and technical demo here: https://www.youtube.com/watch?v=pBuz-j09LYA
 #### 2. Student Connect (Lovable Build Night 2025)
 **Role:** Team Lead & Product Design | **Time:** 90-minute Sprint
