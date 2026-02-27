@@ -27,16 +27,15 @@ Watch our pitch and technical demo here: https://www.youtube.com/watch?v=pBuz-j0
 **Tech:** Lovable.dev (GenAI), Web App
 **Description:** A social hub for international students featuring an "Interest Match" algorithm and a gamified "Daily Event Blind Box".
 
-### 🎥 Project Demo
+### Project Demo
 Check out the demo of the project: https://github.com/juneisxiaoliu/juneisxiaoliu/blob/main/After%20Class%20Demo.mp4
 
----
 
 #### 3. AI Event Discovery Tool (UU AI Society Hackathon)
 **Role:** Team Coordinator | **Time:** 24-hour Hackathon
 **Description:** An AI-powered tool streamlining information retrieval for university events.
 
-👇 **Demo Video:**
+### Demo Video:
 Check out the demo of the project: https://github.com/juneisxiaoliu/juneisxiaoliu/blob/main/team%202%20loveable%20event.mp4
 
 ---
