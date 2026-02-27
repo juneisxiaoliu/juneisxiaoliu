@@ -25,6 +25,7 @@ Watch our pitch and technical demo here: https://www.youtube.com/watch?v=pBuz-j0
 #### 2. Student Connect (Lovable Build Night 2025)
 **Role:** Team Lead & Product Design | **Time:** 90-minute Sprint
 **Tech:** Lovable.dev (GenAI), Web App
+
 **Description:** A social hub for international students featuring an "Interest Match" algorithm and a gamified "Daily Event Blind Box".
 
 ### Project Demo
@@ -33,6 +34,7 @@ Check out the demo of the project: https://github.com/juneisxiaoliu/juneisxiaoli
 
 #### 3. AI Event Discovery Tool (UU AI Society Hackathon)
 **Role:** Team Coordinator | **Time:** 24-hour Hackathon
+
 **Description:** An AI-powered tool streamlining information retrieval for university events.
 
 ### Demo Video:
