@@ -9,7 +9,7 @@ I bridge the gap between business strategy and technical implementation, with a 
 Here are the demos of the MVPs I managed and designed during recent hackathons.
 
 
-### 1. Aegis (HackEurope 2026 - Security Track) 🛡️
+#### 1. Aegis (HackEurope 2026 - Security Track)
 
 **Role:** Product Strategy & Compliance Logic | **Time:** 30-hour Hackathon
 **Tech Stack:** Ollama (Local LLM), Python, Regex, Google Gemini, Anthropic Claude, Lovable
