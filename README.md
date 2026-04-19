@@ -46,8 +46,10 @@ Check out the demo of the project: https://github.com/juneisxiaoliu/juneisxiaoli
 
 **Description**: An enterprise compliance platform designed to resolve the AI governance gap in cross-border corporate expansion.
 **The Problem:** Addressed the "Compliance Double Bind" where business teams leak strategic data via Shadow AI, while legal teams reject LLMs due to hallucinations and zero liability.
+
 **The Solution:** Implemented "Intent-Preserving Guardrails" to locally redact financial magnitudes (e.g., budgets) before API calls, paired with a GT VERIFIED mechanism that grounds AI output in human-audited legal databases.
-Strategic Impact: Achieves "Trust Transfer," converting probabilistic AI predictions into liability-backed "Compliance as Code" for top-tier consulting firms.
+
+**Strategic Impact: **Achieves "Trust Transfer," converting probabilistic AI predictions into liability-backed "Compliance as Code" for top-tier consulting firms.
 Project Demo: Watch our pitch and technical demo here (https://drive.google.com/file/d/166cdxC4YBskv1dLSBP0VBcL580-fEkHU/view?usp=sharing)
 
 
